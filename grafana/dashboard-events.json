@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Events API - Minimal",
+    "panels": [],
+    "schemaVersion": 27,
+    "version": 1
+  },
+  "overwrite": true
+}
